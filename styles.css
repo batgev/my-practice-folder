@@ -1,0 +1,58 @@
+body{
+ text-align: center;
+ background-color: mintcream;
+ margin:0;
+ padding: 0;
+ line-height: 1px; 
+}
+.field{
+  height: 30px;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: gray;
+  margin-bottom: -10px;
+  font-weight: bold;
+  outline: none;
+}
+.heading{
+  margin-top:100px;
+  margin-bottom: 30px;
+}
+button{
+  border: none;
+  padding: 15px;
+  width:330px;
+  border-radius: 5px;
+}
+.createBtn{
+  background-color: #2b042c;
+  color: white;
+}
+.googleBtn{
+  background-color: #109410;
+  color: white;
+}
+.facebookBtn{
+  border:2.5px;
+  border-style: solid;
+  border-color: hsl(259, 95%, 38%);
+  background-color: transparent;
+  margin-top: -10px;
+}
+.spanElement{
+  margin-bottom:40px;
+}
+.checkboxClass{
+  position: relative;
+  left: -50px;
+}
+.agreeBnt{
+  color:rgb(3, 13, 62);
+  font-weight: bold;
+}
+.regiteredUser{
+  font-weight: bolder;
+  margin: 30px;
+}
